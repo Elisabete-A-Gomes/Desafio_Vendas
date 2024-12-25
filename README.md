@@ -1,4 +1,4 @@
-# Desafio_Vendas
+# Desafio - Relatório de Vendas
 Desafio de Vendas - Power BI
 
 <p>O desafio consiste em criar um relatório simples sobre vendas no Power BI.</p>
